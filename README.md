@@ -13,9 +13,9 @@ Information about MyAlets can also be found at the [wiki][5]. Information such a
 
 Read more at the [original repository][6].
 
-[1]: https://github.com/euantor
-[2]: https://github.com/euantor/MyAlerts/tree/master
-[3]: https://github.com/euantor/MyAlerts/tree/current
-[4]: https://github.com/euantor/MyAlerts/tree/develop
-[5]: https://github.com/euantor/MyAlerts/wiki
-[6]: https://github.com/euantor/MyAlerts#readme
+[1]: https://github.com/euantorano
+[2]: https://github.com/euantorano/MyAlerts/tree/master
+[3]: https://github.com/euantorano/MyAlerts/tree/current
+[4]: https://github.com/euantorano/MyAlerts/tree/develop
+[5]: https://github.com/euantorano/MyAlerts/wiki
+[6]: https://github.com/euantorano/MyAlerts#readme
